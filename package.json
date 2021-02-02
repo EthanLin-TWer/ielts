@@ -1,0 +1,28 @@
+{
+  "name": "ielts",
+  "version": "1.0.0",
+  "description": "Preparation of IELTS test",
+  "main": "PLAN.md",
+  "scripts": {
+    "install": "gitbook install",
+    "pdf": "gitbook pdf && open book.pdf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linesh-simplicity/ielts.git"
+  },
+  "keywords": [
+    "ielts",
+    "speaking",
+    "writing"
+  ],
+  "author": "Linesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linesh-simplicity/ielts/issues"
+  },
+  "homepage": "https://github.com/linesh-simplicity/ielts#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
