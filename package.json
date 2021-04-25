@@ -2,7 +2,7 @@
   "name": "ielts",
   "version": "1.0.0",
   "description": "Preparation of IELTS test",
-  "main": "PLAN.md",
+  "main": "README.md",
   "scripts": {
     "install": "gitbook install",
     "pdf": "gitbook pdf && open book.pdf"
