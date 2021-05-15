@@ -14,7 +14,7 @@
 
 ## 备考资料
 
-* [剑桥雅思1-15真题（A类+G类）及其他资料](https://pan.baidu.com/s/1J39Qh21PqO17aZLKareX4w)。提取码：itu5
+* [剑桥雅思1-15真题（A类+G类）及其他资料](https://pan.baidu.com/s/1UROSgkNGdNwJUrVBh9MxFg)。提取码：vs2c
 * [十天突破雅思写作](https://item.jd.com/14841298086.html)
 * [十天突破雅思口语](https://item.jd.com/10022147697315.html)
 
