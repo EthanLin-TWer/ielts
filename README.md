@@ -56,4 +56,4 @@
 
 [十天突破雅思写作](https://item.jd.com/14841298086.html)这个书里真的说得很详尽，照做就是。
 
-有兴趣的话可以看看我的[准备笔记](https://app.gitbook.com/@linesh/s/ielts)。
+有兴趣的话可以看看我的[准备笔记](https://ethan-lin.gitbook.io/ielts)。
